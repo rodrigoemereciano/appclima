@@ -2,7 +2,7 @@ import requests
 import json
 import pprint
 
-accuweatherAPIKey = 'jGAHRr7DCQlqMJeX6LLaNByzz8hoNRUA'
+accuweatherAPIKey = ''
 
 r = requests.get('http://www.geoplugin.net/json.gp')
 
